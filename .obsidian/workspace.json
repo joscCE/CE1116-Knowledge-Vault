@@ -55,12 +55,376 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejemplo Nueva Nota"
+            }
+          },
+          {
+            "id": "07ecf0e6abe80046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Stakeholder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stakeholder"
+            }
+          },
+          {
+            "id": "574887f90eb05af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Requerimientos de Negocio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos de Negocio"
+            }
+          },
+          {
+            "id": "bd2469cbabe72b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Requerimientos de Sistema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos de Sistema"
+            }
+          },
+          {
+            "id": "920c7bbfd2f77f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Stakeholder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stakeholder"
+            }
+          },
+          {
+            "id": "f48cb0e50b75bb25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Filosofía ágil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Filosofía ágil"
+            }
+          },
+          {
+            "id": "61145a1c0b9b3134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Scrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scrum"
+            }
+          },
+          {
+            "id": "66e51ff2fda91357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Product Backlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product Backlog"
+            }
+          },
+          {
+            "id": "b7be311e4aa69bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Sprint Backlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint Backlog"
+            }
+          },
+          {
+            "id": "faadf7039230f816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Velocity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Velocity"
+            }
+          },
+          {
+            "id": "d16aacdb2a629e68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Story Points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Story Points"
+            }
+          },
+          {
+            "id": "5733a1c435102db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Planning Poker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning Poker"
+            }
+          },
+          {
+            "id": "a9355f8beed75cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Product Owner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product Owner"
+            }
+          },
+          {
+            "id": "01c8acc071abb222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Taskboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taskboard"
+            }
+          },
+          {
+            "id": "3e8f51217c0106ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/User Story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User Story"
+            }
+          },
+          {
+            "id": "5cb6cfab920422a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Definition of Done.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definition of Done"
+            }
+          },
+          {
+            "id": "e7d41d09506c6f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Sprint Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint Planning"
+            }
+          },
+          {
+            "id": "19ff2fea27235b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Requerimientos de Sistema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos de Sistema"
+            }
+          },
+          {
+            "id": "6d51d72af9469f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "b64c51c2e8aba2d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Tokenización.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tokenización"
+            }
+          },
+          {
+            "id": "4f9014e3119ffaf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Embeddings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Embeddings"
+            }
+          },
+          {
+            "id": "9e23fcc584ec2f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Redes Neuronales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redes Neuronales"
+            }
+          },
+          {
+            "id": "e4d691fe49a8f18f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Función de Activación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Función de Activación"
+            }
+          },
+          {
+            "id": "906d3b073675db7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Arquitectura Transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitectura Transformer"
+            }
+          },
+          {
+            "id": "34807afc2b77de55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Mecanismo de Atención.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mecanismo de Atención"
+            }
+          },
+          {
+            "id": "9188ee6369161f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/ventana de Contexto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ventana de Contexto"
+            }
+          },
+          {
+            "id": "a13e42beb9041346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Alucinaciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alucinaciones"
             }
           },
           {
@@ -74,7 +438,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -213,6 +577,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -222,23 +587,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fea8fb6a24cd821",
+  "active": "a13e42beb9041346",
   "lastOpenFiles": [
-    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
-    "CE1116/02_Requirimientos/Entrevistas.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/01_Procesos de Desarrollo/Scrum.md",
-    "CE1116/04_Implementación/Estándares de Programación.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
-    "CE1116/05_Pruebas/Pruebas Unitarias.md",
-    "CE1116/08_Templates/Atomic Template.md",
-    "Untitled.canvas",
+    "CE1116/00_Inbox/ventana de Contexto.md",
+    "CE1116/00_Inbox/Mecanismo de Atención.md",
+    "CE1116/00_Inbox/Arquitectura Transformer.md",
+    "CE1116/00_Inbox/Función de Activación.md",
+    "CE1116/00_Inbox/Redes Neuronales.md",
+    "CE1116/00_Inbox/Embeddings.md",
+    "CE1116/00_Inbox/Tokenización.md",
+    "CE1116/00_Inbox/Alucinaciones.md",
     "README.md",
-    "CE1116/00_Inbox/test1.md",
-    "CE1116/00_Inbox/test.md",
-    "Untitled.md",
-    "Untitled 1.md",
+    "CE1116/00_Inbox/User Story.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "CE1116/00_Inbox/Definition of Done.md",
+    "CE1116/00_Inbox/Requerimientos No Funcionales.md",
+    "CE1116/00_Inbox/Requerimientos Funcionales.md",
+    "CE1116/00_Inbox/Filosofía ágil.md",
+    "CE1116/00_Inbox/Planning Poker.md",
+    "CE1116/00_Inbox/Product Backlog.md",
+    "CE1116/00_Inbox/Product Owner.md",
+    "CE1116/00_Inbox/Pruebas Funcionales.md",
+    "CE1116/00_Inbox/Requerimientos de Negocio.md",
+    "CE1116/00_Inbox/Requerimientos de Sistema.md",
+    "CE1116/00_Inbox/Scrum.md",
+    "CE1116/00_Inbox/Sprint Planning.md",
+    "CE1116/00_Inbox/Stakeholder.md",
+    "CE1116/00_Inbox/Story Points.md",
+    "CE1116/00_Inbox/Velocity.md",
+    "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
     "CE1116/07_Mantenimiento",
@@ -248,7 +625,6 @@
     "CE1116/05_Pruebas",
     "CE1116/04_Implementación",
     "CE1116/03_Arquitectura y Diseño",
-    "Welcome.md",
     "CE1116/02_Requirimientos"
   ]
 }
